@@ -16,7 +16,8 @@ I am currently as a **DevOps Engineer** — which means I make things run, break
 - Databases (because data has to live somewhere)  
 - Anything technical that makes me say “oh, that’s cool”  
 
-#### I like exploring stuff, I like asking questions, I get a good feeling when things are working and sometimes I get an even better feeling when things aren't. What *really* pisses me off though, is when things eventually start working, even though nothing changed *at all*
+#### I like exploring stuff, I like asking questions, I get a good feeling when things are working and sometimes I get an even better feeling when things aren't. What *really* pisses me off though, is when things eventually start working, even though nothing changed *at all*.
+
 ---
 
 Feel free to explore my repos — bugs included at no extra cost.
